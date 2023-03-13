@@ -1,6 +1,6 @@
 # 📦Amazon_India_Sales_Q3_22_Analysis 🇮🇳¶
 ## Analyzing and Maximizing Online Business Performance¶
-### More Details: https://www.kaggle.com/code/jasonkryske/e-commerce-sales-data-cleaning-in-python/notebook
+### More Details: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 ## 🎯Driving Growth: Aligning Business Goals, KPI and Stratgies📈
 ### `Goal` - Increase revenue and improve product category performance
